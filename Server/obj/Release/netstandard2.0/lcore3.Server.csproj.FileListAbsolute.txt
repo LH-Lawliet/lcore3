@@ -1,0 +1,10 @@
+C:\dev\lcore3\Server\bin\Release\netstandard2.0\lcore3.Server.deps.json
+C:\dev\lcore3\Server\bin\Release\netstandard2.0\lcore3.Server.net.dll
+C:\dev\lcore3\Server\bin\Release\netstandard2.0\lcore3.Server.net.pdb
+C:\dev\lcore3\Server\obj\Release\netstandard2.0\lcore3.Server.csproj.AssemblyReference.cache
+C:\dev\lcore3\Server\obj\Release\netstandard2.0\lcore3.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\lcore3\Server\obj\Release\netstandard2.0\lcore3.Server.AssemblyInfoInputs.cache
+C:\dev\lcore3\Server\obj\Release\netstandard2.0\lcore3.Server.AssemblyInfo.cs
+C:\dev\lcore3\Server\obj\Release\netstandard2.0\lcore3.Server.csproj.CoreCompileInputs.cache
+C:\dev\lcore3\Server\obj\Release\netstandard2.0\lcore3.Server.net.dll
+C:\dev\lcore3\Server\obj\Release\netstandard2.0\lcore3.Server.net.pdb

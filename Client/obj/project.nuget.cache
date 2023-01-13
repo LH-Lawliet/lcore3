@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FHP+sBvD/gMZIEANO9uAeAwhbAy56x59EA2VLHOgfIy+2y+Uozc5qgy22b3Wf4S0jqP1G2dZNzQs+lDDWjiFNg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\lcore3\\Client\\lcore3.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugor\\.nuget\\packages\\citizenfx.core.client\\1.0.6200\\citizenfx.core.client.1.0.6200.nupkg.sha512",
+    "C:\\Users\\hugor\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

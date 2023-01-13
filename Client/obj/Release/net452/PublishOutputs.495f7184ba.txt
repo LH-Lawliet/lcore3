@@ -1,0 +1,2 @@
+C:\dev\lcore3\Client\bin\Release\net452\publish\lcore3.Client.net.dll
+C:\dev\lcore3\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

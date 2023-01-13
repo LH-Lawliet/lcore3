@@ -1,0 +1,5 @@
+C:\dev\lcore3\Client\obj\Debug\net452\lcore3.Client.csproj.AssemblyReference.cache
+C:\dev\lcore3\Client\obj\Debug\net452\lcore3.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\lcore3\Client\obj\Debug\net452\lcore3.Client.AssemblyInfoInputs.cache
+C:\dev\lcore3\Client\obj\Debug\net452\lcore3.Client.AssemblyInfo.cs
+C:\dev\lcore3\Client\obj\Debug\net452\lcore3.Client.csproj.CoreCompileInputs.cache
