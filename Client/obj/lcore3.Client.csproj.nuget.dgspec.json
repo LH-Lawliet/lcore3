@@ -43,6 +43,12 @@
             "CitizenFX.Core.Client": {
               "target": "Package",
               "version": "[1.0.*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
             }
           },
           "downloadDependencies": [

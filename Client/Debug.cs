@@ -27,7 +27,7 @@ namespace lcore3.Client
 
                 if (createdVehicle != null)
                 {
-                    DeleteVehicle(ref createdVehicle.id);
+                    createdVehicle.Delete();
                 }
 
                 createdVehicle = new Vehicle(Init.player.coords, model, Init.player.heading, true);

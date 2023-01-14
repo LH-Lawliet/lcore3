@@ -1,11 +1,8 @@
-using System;
-using System.Drawing;
 using System.Threading.Tasks;
 using CitizenFX.Core;
 using static CitizenFX.Core.Native.API;
-using static CitizenFX.Core.UI.Screen;
 
-namespace lcore3.Client
+namespace lcore3.Client 
 {
     public class Vehicle : BaseScript
     {
@@ -82,6 +79,11 @@ namespace lcore3.Client
             color2 = n_color2;
             SetVehicleCustomPrimaryColour(id, color1.R, color1.G, color1.B);
             SetVehicleCustomSecondaryColour(id, color2.R, color2.G, color2.B);
+        }
+
+        public void Delete()
+        {
+            DeleteVehicle(ref id);
         }
     }
 }
